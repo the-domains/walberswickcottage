@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-12T11:00:21.330Z'
+datePublished: '2016-08-12T11:20:57.964Z'
 sourcePath: _posts/2016-08-12-elm-gables.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-12T11:00:20.697Z'
+dateModified: '2016-08-12T11:20:57.457Z'
 title: Elm Gables
 publisher: {}
 description: The Quintessential Village Rectory
