@@ -1,14 +1,18 @@
-layout_spectrum: 0.5320847199764103
-typography_spectrum: 0.380237634293735
+layout_spectrum: 0.17397151910699904
+typography_spectrum: 0.6323924253229052
 color:
-  brandStrength: 0.7611660058610141
-  lightness: 0.7143773019779474
-  saturation: 0.31362900440581143
-  rhythmicContrast: 0.6550071865785867
+  brandStrength: 0.9539815557654947
+  lightness: 0.4242233685217798
+  saturation: 0.7614476413000375
+  rhythmicContrast: 0.9536780826747417
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: walberswickcottage
+navigation:
+  - name: Gallery
+    id: e0223ce9-572a-4ad9-9b10-806345f46812
+    type: content
