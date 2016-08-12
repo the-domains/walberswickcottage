@@ -1,0 +1,14 @@
+layout_spectrum: 0.17397151910699904
+typography_spectrum: 0.6323924253229052
+color:
+  brandStrength: 0.9539815557654947
+  lightness: 0.4242233685217798
+  saturation: 0.7614476413000375
+  rhythmicContrast: 0.9536780826747417
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: walberswickcottage
