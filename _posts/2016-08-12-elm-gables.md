@@ -1,7 +1,7 @@
 ---
 description: The Quintessential Village Rectory
-dateModified: '2016-08-12T10:49:07.438Z'
-datePublished: '2016-08-12T10:49:08.081Z'
+dateModified: '2016-08-12T10:51:04.615Z'
+datePublished: '2016-08-12T10:51:05.298Z'
 title: Elm Gables
 author: []
 publisher: {}
