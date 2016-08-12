@@ -12,7 +12,3 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 name: walberswickcottage
-navigation:
-  - name: About Walberswick
-    id: e0223ce9-572a-4ad9-9b10-806345f46812
-    type: content
