@@ -12,3 +12,7 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 name: walberswickcottage
+navigation:
+  - name: Elm Gables
+    id: 20d7dd03-3a1b-4d87-9179-d4dcf8f8bf78
+    type: content
