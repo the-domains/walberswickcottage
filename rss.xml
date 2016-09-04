@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[walberswickcottage]]></title>
         <description><![CDATA[walberswickcottage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/walberswickcottage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 10:10:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 10:17:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/walberswickcottage/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ebd2d9f-54ad-4a43-a300-0cff071b1b3a.jpg">]]></description>
-            <link>undefined5a237dae-1f11-4345-b4ab-e05374eeef61/index.html</link>
+            <link>https://thegrid.ai/walberswickcottage/5a237dae-1f11-4345-b4ab-e05374eeef61/index.html</link>
             <guid isPermaLink="false">5a237dae-1f11-4345-b4ab-e05374eeef61</guid>
             <pubDate>Thu, 01 Sep 2016 10:10:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c8f4dd9-3e10-4041-abfd-2b3ca19bfb82.jpg">]]></description>
+            <link>https://thegrid.ai/walberswickcottage/a7619b72-6a9e-4c4a-b3e5-1c71d28b9ae6/index.html</link>
+            <guid isPermaLink="false">a7619b72-6a9e-4c4a-b3e5-1c71d28b9ae6</guid>
+            <pubDate>Thu, 01 Sep 2016 10:17:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
